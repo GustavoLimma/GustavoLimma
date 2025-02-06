@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm Gustavo Souza from Brazil, a 19-year-old student majoring in Systems analysis and development at the Federal University of Rio Grande do Norte. Currently, I'm working as a freelancer.
 - 🤩 I currently know simple data analysis and am studying machine learning, generative AI, statistics. I'm constantly working on projects in these areas. Explore them in my data science portfolio below!
-- 📚 My hard skills include Python (Pandas, Plotly, Flask), SQL, Power BI, Excel, Git and Github (code versioning) 
+- 📚 My hard skills include Python (Pandas, Plotly, Flask), SQL, Power BI, Excel, PeeWee, MVC, Git and Github (code versioning).
 My soft skills encompass self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm and a results-oriented approach.
 
 ## [**Data Science Portfolio**](#) :game_die:
